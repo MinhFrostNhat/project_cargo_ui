@@ -2,4 +2,4 @@
 
 https://letsgo-front-end.herokuapp.com/log-in
 
-Change account to from account school to my!
+Change account github from my account school to my private account!
